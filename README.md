@@ -44,7 +44,8 @@ A modern, frontend-only Mini CRM (Customer Relationship Management) platform bui
 
 1. Clone the repository
 ```bash
-git clone https://github.com/divyam110903/CRM
+git clone https://github.com/divyam110903/CRM.git
+
 cd xeno
 ```
 
