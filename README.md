@@ -44,7 +44,7 @@ A modern, frontend-only Mini CRM (Customer Relationship Management) platform bui
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/xeno.git
+git clone https://github.com/divyam110903/CRM
 cd xeno
 ```
 
@@ -68,17 +68,6 @@ src/
 ├── pages/            # Main application pages
 ├── data/            # Mock data and constants
 └── App.jsx          # Main application component
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
